@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "trip booking app",
+    "githubUrl": "https://github.com/geraldkachi"
   }
 }
